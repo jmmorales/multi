@@ -1,7 +1,7 @@
 
 data {
-  int<lower = 2> K; // number of pssible outcomes
-  int<lower = 0> N;
+  int<lower = 2> K; // number of posible outcomes (plant spp)
+  int<lower = 0> N; // bird spp
   int<lower = 1> D; // number of predictors
   int<lower = 0> y[N, K];
   matrix[K, D] x;
