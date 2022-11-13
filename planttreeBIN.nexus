@@ -1,0 +1,173 @@
+#NEXUS
+[R-package PHYTOOLS, Mon Sep 12 16:22:57 2022]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 80;
+	TAXLABELS
+		Alchornea_sp.
+		Annona_sp.
+		Antidaphne_sp.
+		Aristotelia_chilensis
+		Azara_microphylla
+		Bunchosia_glandulosa
+		Bursera_simaruba
+		Bursera_sp.
+		Byrsonima_coccolobifolia
+		Casearia_decandra
+		Casearia_guianensis
+		Casearia_sylvestris
+		Cecropia_schreberiana
+		Cecropia_sp.
+		Cecropia_sp.biscoshito
+		Cecropia_sp.peluda
+		Cissus_sp.
+		Clidemia_sp.
+		Clusia_rosea
+		Cordia_polycephala
+		Cornus_peruviana
+		Cupania_americana
+		Drypetes_sp.
+		Erythroxylum_campestre
+		Erythroxylum_suberosum
+		Eugenia_sp.2
+		Ficus_sp.ombligudo
+		Galium_hypocarpium
+		Hedyosmum_translucidum
+		Humiria_balsamifera
+		Lantana_camara
+		Marcgravia_sp.
+		Maytenus_boaria
+		Maytenus_sp.
+		Mendoncia_sp.
+		Miconia_albicans
+		Miconia_bicolor
+		Miconia_glabra
+		Miconia_grandifolia
+		Miconia_sp.chrysoflora
+		Miconia_sp.cruz-malta
+		Miconia_sp.gigantophylla
+		Miconia_sp.miconito
+		Miconia_sp.mostaza
+		Miconia_sp.nigra
+		Miconia_sp.pepa
+		Miconia_sp.velcro
+		Monnina_pallida
+		Myrcia_guianensis
+		Myrcia_sp.naranja
+		Myrsine_sp.caulifruto
+		Nectandra_sp.
+		Ocotea_sp.1
+		Oryctanthus_sp.
+		Ouratea_sp.1
+		Palicourea_lachnantha
+		Palicourea_obovata
+		Palicourea_sp.pallida
+		Phoradendron_sp.
+		Prunus_avium
+		Prunus_cerasus
+		Psychotria_sp.
+		Rubus_idaeus
+		Schefflera_morototoni
+		Schefflera_sp.tuberosa
+		Schinus_patagonicus
+		Sideroxylon_salicifolium
+		Smilax_sp.1
+		Solanum_erianthum
+		Sorbus_aucuparia
+		Struthanthus_sp.
+		Tetrazygia_eleagnoides
+		Tetrorchidium_sp.
+		Tococa_guianensis
+		Topobea_sp.
+		Tournefortia_hirsutissima
+		Trema_micrantha
+		Trichilia_hirta
+		Tristerix_corymbosus
+		Zanthoxylum_caribaeum
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Alchornea_sp.,
+		2	Annona_sp.,
+		3	Antidaphne_sp.,
+		4	Aristotelia_chilensis,
+		5	Azara_microphylla,
+		6	Bunchosia_glandulosa,
+		7	Bursera_simaruba,
+		8	Bursera_sp.,
+		9	Byrsonima_coccolobifolia,
+		10	Casearia_decandra,
+		11	Casearia_guianensis,
+		12	Casearia_sylvestris,
+		13	Cecropia_schreberiana,
+		14	Cecropia_sp.,
+		15	Cecropia_sp.biscoshito,
+		16	Cecropia_sp.peluda,
+		17	Cissus_sp.,
+		18	Clidemia_sp.,
+		19	Clusia_rosea,
+		20	Cordia_polycephala,
+		21	Cornus_peruviana,
+		22	Cupania_americana,
+		23	Drypetes_sp.,
+		24	Erythroxylum_campestre,
+		25	Erythroxylum_suberosum,
+		26	Eugenia_sp.2,
+		27	Ficus_sp.ombligudo,
+		28	Galium_hypocarpium,
+		29	Hedyosmum_translucidum,
+		30	Humiria_balsamifera,
+		31	Lantana_camara,
+		32	Marcgravia_sp.,
+		33	Maytenus_boaria,
+		34	Maytenus_sp.,
+		35	Mendoncia_sp.,
+		36	Miconia_albicans,
+		37	Miconia_bicolor,
+		38	Miconia_glabra,
+		39	Miconia_grandifolia,
+		40	Miconia_sp.chrysoflora,
+		41	Miconia_sp.cruz-malta,
+		42	Miconia_sp.gigantophylla,
+		43	Miconia_sp.miconito,
+		44	Miconia_sp.mostaza,
+		45	Miconia_sp.nigra,
+		46	Miconia_sp.pepa,
+		47	Miconia_sp.velcro,
+		48	Monnina_pallida,
+		49	Myrcia_guianensis,
+		50	Myrcia_sp.naranja,
+		51	Myrsine_sp.caulifruto,
+		52	Nectandra_sp.,
+		53	Ocotea_sp.1,
+		54	Oryctanthus_sp.,
+		55	Ouratea_sp.1,
+		56	Palicourea_lachnantha,
+		57	Palicourea_obovata,
+		58	Palicourea_sp.pallida,
+		59	Phoradendron_sp.,
+		60	Prunus_avium,
+		61	Prunus_cerasus,
+		62	Psychotria_sp.,
+		63	Rubus_idaeus,
+		64	Schefflera_morototoni,
+		65	Schefflera_sp.tuberosa,
+		66	Schinus_patagonicus,
+		67	Sideroxylon_salicifolium,
+		68	Smilax_sp.1,
+		69	Solanum_erianthum,
+		70	Sorbus_aucuparia,
+		71	Struthanthus_sp.,
+		72	Tetrazygia_eleagnoides,
+		73	Tetrorchidium_sp.,
+		74	Tococa_guianensis,
+		75	Topobea_sp.,
+		76	Tournefortia_hirsutissima,
+		77	Trema_micrantha,
+		78	Trichilia_hirta,
+		79	Tristerix_corymbosus,
+		80	Zanthoxylum_caribaeum
+	;
+	TREE * UNTITLED = [&R] ((((((((64:18.862112,65:18.862111):87.879299,(((35:47.164013,31:47.164014):41.083763,(76:47.760402,20:47.760402):40.487375)mrcaott248ott2108:1.503291,((28:24.814736,(62:15.057239,((58:3.948255,56:3.948255):0,57:3.948255):11.108984):9.757496):61.098401,69:85.913136)mrcaott1191ott2192:3.837931)mrcaott248ott1191:16.990343)mrcaott248ott320:5.599318,((51:94.35819,67:94.358191):9.219005,32:103.577195)Ericales.rn.d8s.tre:8.763533)mrcaott248ott650:2.225571,21:114.5663)mrcaott248ott27233:6.818365,(((71:23.9745,54:23.974501):12.662532,79:36.637033):44.835703,(59:76.946152,3:76.946153):4.526583):39.911929)mrcaott248ott19688:2.349572,((((48:112.701195,((63:94.56118,(70:50.733268,(60:11.123271,61:11.123271):39.609997):43.827912):4.400616,((27:68.512449,(((14:11.576871,16:11.576871):0,15:11.576871):0,13:11.576871):56.935578):4.956685,77:73.469135):25.492661)Rosales.rn.d8s.tre:13.7394)mrcaott371ott579:3.084369,((((((((19:94.559806,(6:51.330575,9:51.330575):43.229231):0.305473,(5:62.60732,((12:12.62918,11:12.629179):0,10:12.629179):49.978141):32.257958):0.046307,(25:17.307109,24:17.307109):77.604476):4.230653,23:99.142238):3.46552,((73:61.896506,1:61.896506):32.31013,55:94.206636):8.401122):0.903128,30:103.510887)Malpighiales.rn.d8s.tre:7.91554,4:111.426427)mrcaott2ott345:0.594159,(34:19.810242,33:19.810243):92.210343)mrcaott2ott1479:3.764979)mrcaott2ott371:2.793039,((((80:69.279725,78:69.279726):9.868676,22:79.148401):0.769939,((8:19.945452,7:19.945453):31.613721,66:51.559173):28.359167):37.074855,((75:44.240951,(((18:8.730026,74:8.730027):0.186428,72:8.916455):0.664089,(((36:7.191748,(37:7.191747,40:7.191747):0):0,(47:7.191747,((43:7.191747,((46:7.191747,(39:7.191747,42:7.191747):0):0,41:7.191747):0):0,44:7.191747):0):0):0,(38:7.191747,45:7.191747):0):2.388796):34.660408):48.023447,(26:27.727887,(50:20.639433,49:20.639434):7.088454):64.536511):24.728797)mrcaott96ott607:1.585408)mrcaott2ott96:2.70865,17:121.287253)mrcaott2ott8384:2.446983)Pentapetalae:12.023828,68:135.758064)mrcaott2ott121:0.154122,((2:127.701186,(53:6.769605,52:6.769605):120.931581)mrcaott890ott9684:6.918775,29:134.619962)mrcaott890ott34978:1.292225)Mesangiospermae;
+END;

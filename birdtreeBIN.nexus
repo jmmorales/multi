@@ -1,0 +1,269 @@
+#NEXUS
+[R-package PHYTOOLS, Mon Sep  5 15:49:47 2022]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 128;
+	TAXLABELS
+		Aburria_aburri
+		Anairetes_parulus
+		Aphrastura_spinicauda
+		Atlapetes_tricolor
+		Aulacorhynchus_coeruleicinctis
+		Cacicus_cela
+		Camptostoma_obsoletum
+		Capito_auratus
+		Carduelis_olivacea
+		Chamaepetes_goudotii
+		Chlorophanes_spiza
+		Chlorophonia_cyanea
+		Coereba_flaveola
+		Colorhamphus_parvirostris
+		Conirostrum_speciosum
+		Contopus_virens
+		Coryphospingus_cucullatus
+		Curaeus_curaeus
+		Cyanerpes_caeruleus
+		Cyanerpes_nitidus
+		Cyanocorax_cristatellus
+		Cyanocorax_yncas
+		Dacnis_cayana
+		Dacnis_lineata
+		Elaenia_albiceps
+		Elaenia_cristata
+		Elaenia_flavogaster
+		Elaenia_obscura
+		Entomodestes_leucotis
+		Euphonia_chlorotica
+		Euphonia_laniirostris
+		Euphonia_xanthogaster
+		Icterus_cayanensis
+		Icterus_icterus
+		Legatus_leucophaius
+		Loxigilla_portoricensis
+		Machaeropterus_pyrocephalus
+		Margarops_fuscatus
+		Megarynchus_pitangua
+		Melanerpes_cruentatus
+		Melanodera_xanthogramma
+		Mimus_polyglottos
+		Mimus_saturninus
+		Mionectes_oleagineus
+		Mionectes_olivaceus
+		Mionectes_striaticollis
+		Molothrus_bonariensis
+		Myadestes_ralloides
+		Myiarchus_antillarum
+		Myiarchus_ferox
+		Myiarchus_semirufus
+		Myiodynastes_luteiventris
+		Myiodynastes_maculatus
+		Myiopagis_gaimardii
+		Myiophobus_fasciatus
+		Myiozetetes_granadensis
+		Myiozetetes_similis
+		Nemosia_pileata
+		Nystalus_striolatus
+		Ortalis_guttata
+		Pachyramphus_spodiurus
+		Parula_pitiayumi
+		Patagioenas_picazuro
+		Patagioenas_squamosa
+		Patagioenas_subvinacea
+		Penelope_montagnii
+		Pharomachrus_auriceps
+		Phrygilus_patagonicus
+		Phyllomyias_griseocapilla
+		Piaya_cayana
+		Pipra_pipra
+		Pipreola_pulchra
+		Pitangus_lictor
+		Pitangus_sulphuratus
+		Psarocolius_angustifrons
+		Psarocolius_atrovirens
+		Pteroglossus_castanotis
+		Pteroglossus_inscriptus
+		Ramphastos_toco
+		Ramphocelus_carbo
+		Saltator_coerulescens
+		Saltator_maximus
+		Scelorchilus_rubecula
+		Schistochlamys_melanopis
+		Schistochlamys_ruficapillus
+		Spindalis_portoricensis
+		Sporophila_luctuosa
+		Tachyphonus_rufus
+		Tangara_cayana
+		Tangara_chilensis
+		Tangara_gyrola
+		Tangara_mexicana
+		Tangara_nigroviridis
+		Tangara_parzudakii
+		Tangara_ruficervix
+		Tangara_schrankii
+		Tangara_vassorii
+		Tangara_viridicollis
+		Tangara_xanthocephala
+		Tangara_xanthogastra
+		Terenotriccus_erythrurus
+		Tersina_viridis
+		Thraupis_cyanocephala
+		Thraupis_episcopus
+		Thraupis_palmarum
+		Thraupis_sayaca
+		Tiaris_bicolor
+		Tityra_cayana
+		Tityra_semifasciata
+		Trichothraupis_melanops
+		Troglodytes_aedon
+		Trogon_curucui
+		Trogon_viridis
+		Turdus_amaurochalinus
+		Turdus_falcklandii
+		Turdus_hauxwelli
+		Turdus_ignobilis
+		Turdus_leucomelas
+		Turdus_plumbeus
+		Tyrannulus_elatus
+		Tyrannus_dominicensis
+		Tyrannus_melancholicus
+		Tyrannus_savana
+		Vireo_altiloquus
+		Vireo_olivaceus
+		Volatinia_jacarina
+		Xolmis_pyrope
+		Zimmerius_viridiflavus
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Aburria_aburri,
+		2	Anairetes_parulus,
+		3	Aphrastura_spinicauda,
+		4	Atlapetes_tricolor,
+		5	Aulacorhynchus_coeruleicinctis,
+		6	Cacicus_cela,
+		7	Camptostoma_obsoletum,
+		8	Capito_auratus,
+		9	Carduelis_olivacea,
+		10	Chamaepetes_goudotii,
+		11	Chlorophanes_spiza,
+		12	Chlorophonia_cyanea,
+		13	Coereba_flaveola,
+		14	Colorhamphus_parvirostris,
+		15	Conirostrum_speciosum,
+		16	Contopus_virens,
+		17	Coryphospingus_cucullatus,
+		18	Curaeus_curaeus,
+		19	Cyanerpes_caeruleus,
+		20	Cyanerpes_nitidus,
+		21	Cyanocorax_cristatellus,
+		22	Cyanocorax_yncas,
+		23	Dacnis_cayana,
+		24	Dacnis_lineata,
+		25	Elaenia_albiceps,
+		26	Elaenia_cristata,
+		27	Elaenia_flavogaster,
+		28	Elaenia_obscura,
+		29	Entomodestes_leucotis,
+		30	Euphonia_chlorotica,
+		31	Euphonia_laniirostris,
+		32	Euphonia_xanthogaster,
+		33	Icterus_cayanensis,
+		34	Icterus_icterus,
+		35	Legatus_leucophaius,
+		36	Loxigilla_portoricensis,
+		37	Machaeropterus_pyrocephalus,
+		38	Margarops_fuscatus,
+		39	Megarynchus_pitangua,
+		40	Melanerpes_cruentatus,
+		41	Melanodera_xanthogramma,
+		42	Mimus_polyglottos,
+		43	Mimus_saturninus,
+		44	Mionectes_oleagineus,
+		45	Mionectes_olivaceus,
+		46	Mionectes_striaticollis,
+		47	Molothrus_bonariensis,
+		48	Myadestes_ralloides,
+		49	Myiarchus_antillarum,
+		50	Myiarchus_ferox,
+		51	Myiarchus_semirufus,
+		52	Myiodynastes_luteiventris,
+		53	Myiodynastes_maculatus,
+		54	Myiopagis_gaimardii,
+		55	Myiophobus_fasciatus,
+		56	Myiozetetes_granadensis,
+		57	Myiozetetes_similis,
+		58	Nemosia_pileata,
+		59	Nystalus_striolatus,
+		60	Ortalis_guttata,
+		61	Pachyramphus_spodiurus,
+		62	Parula_pitiayumi,
+		63	Patagioenas_picazuro,
+		64	Patagioenas_squamosa,
+		65	Patagioenas_subvinacea,
+		66	Penelope_montagnii,
+		67	Pharomachrus_auriceps,
+		68	Phrygilus_patagonicus,
+		69	Phyllomyias_griseocapilla,
+		70	Piaya_cayana,
+		71	Pipra_pipra,
+		72	Pipreola_pulchra,
+		73	Pitangus_lictor,
+		74	Pitangus_sulphuratus,
+		75	Psarocolius_angustifrons,
+		76	Psarocolius_atrovirens,
+		77	Pteroglossus_castanotis,
+		78	Pteroglossus_inscriptus,
+		79	Ramphastos_toco,
+		80	Ramphocelus_carbo,
+		81	Saltator_coerulescens,
+		82	Saltator_maximus,
+		83	Scelorchilus_rubecula,
+		84	Schistochlamys_melanopis,
+		85	Schistochlamys_ruficapillus,
+		86	Spindalis_portoricensis,
+		87	Sporophila_luctuosa,
+		88	Tachyphonus_rufus,
+		89	Tangara_cayana,
+		90	Tangara_chilensis,
+		91	Tangara_gyrola,
+		92	Tangara_mexicana,
+		93	Tangara_nigroviridis,
+		94	Tangara_parzudakii,
+		95	Tangara_ruficervix,
+		96	Tangara_schrankii,
+		97	Tangara_vassorii,
+		98	Tangara_viridicollis,
+		99	Tangara_xanthocephala,
+		100	Tangara_xanthogastra,
+		101	Terenotriccus_erythrurus,
+		102	Tersina_viridis,
+		103	Thraupis_cyanocephala,
+		104	Thraupis_episcopus,
+		105	Thraupis_palmarum,
+		106	Thraupis_sayaca,
+		107	Tiaris_bicolor,
+		108	Tityra_cayana,
+		109	Tityra_semifasciata,
+		110	Trichothraupis_melanops,
+		111	Troglodytes_aedon,
+		112	Trogon_curucui,
+		113	Trogon_viridis,
+		114	Turdus_amaurochalinus,
+		115	Turdus_falcklandii,
+		116	Turdus_hauxwelli,
+		117	Turdus_ignobilis,
+		118	Turdus_leucomelas,
+		119	Turdus_plumbeus,
+		120	Tyrannulus_elatus,
+		121	Tyrannus_dominicensis,
+		122	Tyrannus_melancholicus,
+		123	Tyrannus_savana,
+		124	Vireo_altiloquus,
+		125	Vireo_olivaceus,
+		126	Volatinia_jacarina,
+		127	Xolmis_pyrope,
+		128	Zimmerius_viridiflavus
+	;
+	TREE * UNTITLED = [&R] (((((((((((((((((91:0.009,((94:0.00225,96:0.00225)1:0.00225,99:0.0045)0.77:0.0045):0,(90:0.0045,92:0.0045)0.7:0.0045)1:0.0045,(97:0.00675,93:0.00675)1:0.00675)1:0.00675,(((98:0.010125,95:0.010125):0,100:0.010125):0,89:0.010125)0.87:0.010125)1:0.00675,((107:0.009,36:0.009)0.83:0.009,13:0.018)1:0.009)1:0.009,(((106:0.006,104:0.006)1:0.006,105:0.012)1:0.006,103:0.018)1:0.018)1:0.009,(85:0.0225,84:0.0225)1:0.0225)1:0.0225,12:0.0675)1:0.0675,((((((((23:0.009,24:0.009)1:0.009,102:0.018)1:0.009,(20:0.0135,19:0.0135)1:0.0135)0.52:0.009,(((110:0.009,17:0.009)0.97:0.009,(88:0.009,80:0.009)0.79:0.009)1:0.009,126:0.027)1:0.009):0,(((41:0.009,68:0.009)1:0.009,15:0.018)1:0.009,87:0.027)1:0.009)1:0.009,11:0.045):0,58:0.045)1:0.045,(81:0.045,82:0.045)1:0.045)1:0.045)1:0.0675,(((((18:0.0225,47:0.0225)0.59:0.0225,(34:0.0225,33:0.0225)0.99:0.0225)1:0.0225,((76:0.016875,75:0.016875)1:0.016875,6:0.03375)1:0.03375)1:0.03375,4:0.10125)0.95:0.03375,(62:0.0675,86:0.0675)0.89:0.0675)0.76:0.0675)1:0.0675,(((30:0.09,32:0.09):0,31:0.09)1:0.09,9:0.18)1:0.09)1:0.09,((((((((114:0.012,117:0.012)1:0.012,(118:0.012,116:0.012)1:0.012)1:0.012,115:0.036)0.98:0.012,119:0.048)1:0.012,29:0.06)1:0.06,48:0.12)1:0.06,((43:0.045,42:0.045)1:0.045,38:0.09)1:0.09)0.55:0.09,111:0.27)1:0.09)1:0.09,((125:0.15,124:0.15)0.86:0.15,(22:0.15,21:0.15)1:0.15)0.52:0.15)1:0.15,(((((((((35:0.1428571429,((49:0.07142857143,50:0.07142857143):0,51:0.07142857143)1:0.07142857143):0,((((((121:0.007142857143,122:0.007142857143)1:0.007142857143,123:0.01428571429)1:0.01428571429,39:0.02857142857)1:0.02857142857,(53:0.02857142857,52:0.02857142857)0.9:0.02857142857)1:0.02857142857,(57:0.04285714286,56:0.04285714286)0.74:0.04285714286)1:0.02857142857,(73:0.05714285714,74:0.05714285714)1:0.05714285714)1:0.02857142857)1:0.02857142857,(((16:0.04285714286,55:0.04285714286)0.57:0.04285714286,127:0.08571428571)0.86:0.04285714286,14:0.1285714286)1:0.04285714286)1:0.04285714286,((((((25:0.02142857143,27:0.02142857143)1:0.02142857143,28:0.04285714286)1:0.02142857143,26:0.06428571429)1:0.02142857143,(120:0.04285714286,54:0.04285714286)1:0.04285714286)1:0.04285714286,2:0.1285714286)1:0.04285714286,((69:0.08571428571,7:0.08571428571):0,128:0.08571428571)1:0.08571428571)1:0.04285714286)1:0.04285714286,((46:0.08571428571,45:0.08571428571)1:0.08571428571,44:0.1714285714)1:0.08571428571)1:0.04285714286,101:0.3):0,((109:0.1,108:0.1)1:0.1,61:0.2)1:0.1)0.98:0.1,((37:0.1,71:0.1)1:0.1,72:0.2)1:0.2)1:0.1,(3:0.25,83:0.25)1:0.25)1:0.1)1:0.1,(((((((78:0.06666666667,77:0.06666666667)1:0.06666666667,5:0.1333333333)1:0.06666666667,79:0.2)1:0.06666666667,8:0.2666666667)0.83:0.06666666667,40:0.3333333333)1:0.06666666667,59:0.4)1:0.06666666667,((113:0.1166666667,112:0.1166666667)1:0.1166666667,67:0.2333333333)1:0.2333333333)1:0.2333333333)1:0.1,(((64:0.2,65:0.2)1:0.2,63:0.4)1:0.2,70:0.6)1:0.2)1:0.2,(((1:0.25,66:0.25)0.8:0.25,10:0.5)1:0.25,60:0.75)1:0.25)1;
+END;
